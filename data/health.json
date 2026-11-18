@@ -2,7 +2,7 @@
  "accenture": {
   "name": "Accenture",
   "source": "workday",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.5,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
@@ -15,8 +15,8 @@
  "adobe": {
   "name": "Adobe",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 4,
@@ -28,8 +28,8 @@
  "agl": {
   "name": "AGL",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.5,
+  "last_run": "2026-11-18",
+  "seconds": 0.6,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://agl.wd3.myworkdayjobs.com/wday/cxs/agl/AGL_Recruitment/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 4,
@@ -49,41 +49,41 @@
  "airtrunk": {
   "name": "AirTrunk",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 66,
+  "raw": 67,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "airwallex": {
   "name": "Airwallex",
   "source": "ashby",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 484,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "akuna-capital": {
   "name": "Akuna Capital",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 32,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "allianz-australia": {
   "name": "Allianz Australia",
@@ -104,41 +104,41 @@
  "amazon-aws": {
   "name": "Amazon / AWS",
   "source": "amazon",
-  "last_run": "2026-11-17",
-  "seconds": 1.7,
+  "last_run": "2026-11-18",
+  "seconds": 2.3,
   "status": "ok",
   "error": null,
   "raw": 21,
   "matched": 6,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "amp": {
   "name": "AMP",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 3.3,
+  "last_run": "2026-11-18",
+  "seconds": 8.8,
   "status": "ok",
   "error": null,
-  "raw": 6,
+  "raw": 5,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "anduril-australia": {
   "name": "Anduril Australia",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 2614,
+  "raw": 2616,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "anz": {
   "name": "ANZ",
@@ -151,15 +151,15 @@
  "appen": {
   "name": "Appen",
   "source": "lever",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 16,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "apple": {
   "name": "Apple",
@@ -172,15 +172,15 @@
  "apra": {
   "name": "APRA",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 4.3,
+  "last_run": "2026-11-18",
+  "seconds": 3.6,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "asic": {
   "name": "ASIC",
@@ -193,8 +193,8 @@
  "asx": {
   "name": "ASX",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.6,
+  "last_run": "2026-11-18",
+  "seconds": 0.7,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://asx.wd105.myworkdayjobs.com/wday/cxs/asx/ASX_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 16,
@@ -206,15 +206,15 @@
  "atlassian": {
   "name": "Atlassian",
   "source": "atlassian",
-  "last_run": "2026-11-17",
-  "seconds": 0.2,
+  "last_run": "2026-11-18",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
-  "raw": 271,
+  "raw": 268,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "atos": {
   "name": "Atos",
@@ -307,15 +307,15 @@
  "bigtincan": {
   "name": "Bigtincan",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.4,
   "status": "ok",
   "error": null,
   "raw": 1,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "blackrock": {
   "name": "BlackRock",
@@ -328,20 +328,20 @@
  "block": {
   "name": "Block (Afterpay / Square)",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 185,
+  "raw": 187,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "boeing-australia": {
   "name": "Boeing Australia",
   "source": "workday",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
@@ -370,15 +370,15 @@
  "brighte": {
   "name": "Brighte",
   "source": "lever",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "bureau-of-meteorology": {
   "name": "Bureau of Meteorology",
@@ -391,15 +391,15 @@
  "canva": {
   "name": "Canva",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.8,
   "status": "ok",
   "error": null,
   "raw": 13,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "capgemini": {
   "name": "Capgemini",
@@ -412,28 +412,28 @@
  "carsales": {
   "name": "carsales",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "catapult-sports": {
   "name": "Catapult Sports",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "cgi": {
   "name": "CGI",
@@ -446,7 +446,7 @@
  "cisco": {
   "name": "Cisco",
   "source": "workday",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
@@ -467,8 +467,8 @@
  "citi-australia": {
   "name": "Citi Australia",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.5,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 18,
@@ -496,7 +496,7 @@
  "commonwealth-bank": {
   "name": "Commonwealth Bank",
   "source": "workday",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.5,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cba.wd3.myworkdayjobs.com/wday/cxs/cba/CommBank_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
@@ -509,8 +509,8 @@
  "crowdstrike": {
   "name": "CrowdStrike",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 14,
@@ -530,15 +530,15 @@
  "culture-amp": {
   "name": "Culture Amp",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 32,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "cybercx": {
   "name": "CyberCX",
@@ -559,15 +559,15 @@
  "databricks": {
   "name": "Databricks",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 892,
+  "raw": 901,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "datacom": {
   "name": "Datacom",
@@ -580,28 +580,28 @@
  "datadog": {
   "name": "Datadog",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 382,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "dell-technologies": {
   "name": "Dell Technologies",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 6.5,
+  "last_run": "2026-11-18",
+  "seconds": 6.1,
   "status": "ok",
   "error": null,
-  "raw": 228,
+  "raw": 234,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "deloitte": {
   "name": "Deloitte",
@@ -630,15 +630,15 @@
  "deputy": {
   "name": "Deputy",
   "source": "lever",
-  "last_run": "2026-11-17",
-  "seconds": 0.2,
+  "last_run": "2026-11-18",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "digital-transformation-agency": {
   "name": "Digital Transformation Agency",
@@ -659,28 +659,28 @@
  "dovetail": {
   "name": "Dovetail",
   "source": "ashby",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 0.0,
   "status": "ok",
   "error": null,
-  "raw": 5,
+  "raw": 4,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "dropbox": {
   "name": "Dropbox",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 41,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "dstg": {
   "name": "DSTG (Defence Science & Tech)",
@@ -701,15 +701,15 @@
  "elastic": {
   "name": "Elastic",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 391,
+  "raw": 382,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "employment-hero": {
   "name": "Employment Hero",
@@ -730,8 +730,8 @@
  "expedia-group": {
   "name": "Expedia Group",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 1.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 92,
@@ -751,15 +751,15 @@
  "ferocia": {
   "name": "Ferocia (Up)",
   "source": "ashby",
-  "last_run": "2026-11-17",
-  "seconds": 0.2,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "fortescue": {
   "name": "Fortescue",
@@ -812,47 +812,47 @@
  "harrison-ai": {
   "name": "Harrison.ai",
   "source": "ashby",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "heidi-health": {
   "name": "Heidi Health",
   "source": "ashby",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 18,
+  "raw": 17,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "hipages": {
   "name": "hipages",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 4,
+  "raw": 5,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "hp": {
   "name": "HP",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 2.6,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 338,
@@ -904,28 +904,28 @@
  "imc-trading": {
   "name": "IMC Trading",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 156,
+  "raw": 153,
   "matched": 1,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "immutable": {
   "name": "Immutable",
   "source": "lever",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "ing-australia": {
   "name": "ING Australia",
@@ -954,41 +954,41 @@
  "j-p-morgan": {
   "name": "J.P. Morgan",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 18.9,
+  "last_run": "2026-11-18",
+  "seconds": 23.1,
   "status": "ok",
   "error": null,
-  "raw": 761,
+  "raw": 745,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "judo-bank": {
   "name": "Judo Bank",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.7,
   "status": "ok",
   "error": null,
   "raw": 18,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "jump-trading": {
   "name": "Jump Trading",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 91,
+  "raw": 88,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "kpmg-australia": {
   "name": "KPMG Australia",
@@ -1001,8 +1001,8 @@
  "kyndryl": {
   "name": "Kyndryl",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarlyCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 30,
@@ -1014,8 +1014,8 @@
  "leidos-australia": {
   "name": "Leidos Australia",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 118,
@@ -1075,8 +1075,8 @@
  "mastercard": {
   "name": "Mastercard",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 1.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 276,
@@ -1096,15 +1096,15 @@
  "megaport": {
   "name": "Megaport",
   "source": "lever",
-  "last_run": "2026-11-17",
-  "seconds": 0.2,
+  "last_run": "2026-11-18",
+  "seconds": 0.8,
   "status": "ok",
   "error": null,
-  "raw": 63,
+  "raw": 64,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "meta": {
   "name": "Meta",
@@ -1149,28 +1149,28 @@
  "nearmap": {
   "name": "Nearmap",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 11,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "nextdc": {
   "name": "NEXTDC",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "nib": {
   "name": "nib",
@@ -1215,8 +1215,8 @@
  "nvidia": {
   "name": "NVIDIA",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 276,
@@ -1228,28 +1228,28 @@
  "octopus-deploy": {
   "name": "Octopus Deploy",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 6,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "okta": {
   "name": "Okta",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 358,
+  "raw": 359,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "optiver": {
   "name": "Optiver",
@@ -1270,8 +1270,8 @@
  "palo-alto-networks": {
   "name": "Palo Alto Networks",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 221,
@@ -1291,28 +1291,28 @@
  "pexa": {
   "name": "PEXA",
   "source": "lever",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 3,
+  "raw": 4,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "prospa": {
   "name": "Prospa",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 8,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "pwc-australia": {
   "name": "PwC Australia",
@@ -1333,15 +1333,15 @@
  "quantium": {
   "name": "Quantium",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 34,
+  "raw": 35,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "queensland-government": {
   "name": "Queensland Government",
@@ -1362,8 +1362,8 @@
  "reserve-bank-of-australia": {
   "name": "Reserve Bank of Australia",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 2.2,
+  "last_run": "2026-11-18",
+  "seconds": 0.7,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://rba.wd105.myworkdayjobs.com/wday/cxs/rba/RBA_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 13,
@@ -1375,7 +1375,7 @@
  "resmed": {
   "name": "ResMed",
   "source": "workday",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.5,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://resmed.wd3.myworkdayjobs.com/wday/cxs/resmed/ResMed_External_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
@@ -1404,8 +1404,8 @@
  "rtx-raytheon-australia": {
   "name": "RTX / Raytheon Australia",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 1.0,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/REC_RTX_Ext_Gateway/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 537,
@@ -1417,28 +1417,28 @@
  "safetyculture": {
   "name": "SafetyCulture",
   "source": "ashby",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 31,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "salesforce": {
   "name": "Salesforce",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
-  "status": "error",
-  "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
-  "raw": 48,
+  "last_run": "2026-11-18",
+  "seconds": 1.7,
+  "status": "ok",
+  "error": null,
+  "raw": 46,
   "matched": 0,
-  "last_ok": "2026-11-15",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-15"
+  "last_nonzero": "2026-11-18"
  },
  "sap": {
   "name": "SAP",
@@ -1451,28 +1451,28 @@
  "seek": {
   "name": "SEEK",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 11,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "servicenow": {
   "name": "ServiceNow",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.6,
   "status": "ok",
   "error": null,
-  "raw": 21,
+  "raw": 27,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "services-australia": {
   "name": "Services Australia",
@@ -1493,15 +1493,15 @@
  "siteminder": {
   "name": "SiteMinder",
   "source": "ashby",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
   "raw": 28,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "slalom": {
   "name": "Slalom",
@@ -1514,28 +1514,28 @@
  "snowflake": {
   "name": "Snowflake",
   "source": "ashby",
-  "last_run": "2026-11-17",
-  "seconds": 0.2,
+  "last_run": "2026-11-18",
+  "seconds": 0.3,
   "status": "ok",
   "error": null,
-  "raw": 373,
+  "raw": 371,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "stripe": {
   "name": "Stripe",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 791,
+  "raw": 789,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "suncorp": {
   "name": "Suncorp",
@@ -1588,28 +1588,28 @@
  "thoughtworks": {
   "name": "Thoughtworks",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 41,
+  "raw": 35,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "tpg-telecom": {
   "name": "TPG Telecom",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 4.0,
+  "last_run": "2026-11-18",
+  "seconds": 6.3,
   "status": "ok",
   "error": null,
-  "raw": 28,
+  "raw": 27,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "transport-for-nsw": {
   "name": "Transport for NSW",
@@ -1622,8 +1622,8 @@
  "transurban": {
   "name": "Transurban",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.5,
+  "last_run": "2026-11-18",
+  "seconds": 0.6,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://transurban.wd3.myworkdayjobs.com/wday/cxs/transurban/TU_AU/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 3,
@@ -1643,15 +1643,15 @@
  "twilio": {
   "name": "Twilio",
   "source": "greenhouse",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.1,
   "status": "ok",
   "error": null,
-  "raw": 111,
+  "raw": 110,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "tyro-payments": {
   "name": "Tyro Payments",
@@ -1664,15 +1664,15 @@
  "uber": {
   "name": "Uber",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 6.4,
   "status": "ok",
   "error": null,
   "raw": 243,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "ubs": {
   "name": "UBS",
@@ -1685,15 +1685,15 @@
  "unisuper": {
   "name": "UniSuper",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 3.4,
+  "last_run": "2026-11-18",
+  "seconds": 4.4,
   "status": "ok",
   "error": null,
-  "raw": 3,
+  "raw": 8,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "vanguard-australia": {
   "name": "Vanguard Australia",
@@ -1706,15 +1706,15 @@
  "versent": {
   "name": "Versent",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
+  "last_run": "2026-11-18",
   "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 2,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "victorian-government": {
   "name": "Victorian Government",
@@ -1727,8 +1727,8 @@
  "visa": {
   "name": "Visa",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 15,
@@ -1756,15 +1756,15 @@
  "westpac-group": {
   "name": "Westpac Group",
   "source": "oracle_hcm",
-  "last_run": "2026-11-17",
-  "seconds": 6.0,
+  "last_run": "2026-11-18",
+  "seconds": 6.5,
   "status": "ok",
   "error": null,
-  "raw": 49,
+  "raw": 48,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "whispir": {
   "name": "Whispir",
@@ -1785,15 +1785,15 @@
  "wise": {
   "name": "Wise",
   "source": "smartrecruiters",
-  "last_run": "2026-11-17",
-  "seconds": 0.4,
+  "last_run": "2026-11-18",
+  "seconds": 0.5,
   "status": "ok",
   "error": null,
   "raw": 3,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "wisetech-global": {
   "name": "WiseTech Global",
@@ -1814,8 +1814,8 @@
  "workday": {
   "name": "Workday",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 12,
@@ -1827,23 +1827,23 @@
  "xero": {
   "name": "Xero",
   "source": "ashby",
-  "last_run": "2026-11-17",
-  "seconds": 0.1,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "ok",
   "error": null,
-  "raw": 98,
+  "raw": 103,
   "matched": 0,
-  "last_ok": "2026-11-17",
+  "last_ok": "2026-11-18",
   "first_ok": "2026-10-10",
-  "last_nonzero": "2026-11-17"
+  "last_nonzero": "2026-11-18"
  },
  "zendesk": {
   "name": "Zendesk",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 1.4,
-  "status": "ok",
-  "error": null,
+  "last_run": "2026-11-18",
+  "seconds": 0.1,
+  "status": "error",
+  "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 8,
   "matched": 0,
   "last_ok": "2026-11-17",
@@ -1861,8 +1861,8 @@
  "zoom": {
   "name": "Zoom",
   "source": "workday",
-  "last_run": "2026-11-17",
-  "seconds": 0.0,
+  "last_run": "2026-11-18",
+  "seconds": 0.2,
   "status": "error",
   "error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://zoom.wd5.myworkdayjobs.com/wday/cxs/zoom/Zoom/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "raw": 1,
