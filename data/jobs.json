@@ -14,8 +14,8 @@
    "posted_at": "2026-11-24",
    "first_seen": "2026-11-25",
    "last_seen": "2026-11-25",
-   "missed_runs": 2,
-   "closed": false
+   "missed_runs": 3,
+   "closed": true
   },
   {
    "id": "3730fe4ec29f9e56",
@@ -176,7 +176,7 @@
    "category": "ML/AI",
    "posted_at": "2026-08-24",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -210,7 +210,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -227,7 +227,7 @@
    "category": "Software",
    "posted_at": "2026-03-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -244,7 +244,7 @@
    "category": "Software",
    "posted_at": "2026-06-30",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -278,7 +278,7 @@
    "category": "Software",
    "posted_at": "2026-05-14",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -312,7 +312,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-23",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -329,7 +329,7 @@
    "category": "ML/AI",
    "posted_at": "2026-06-26",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "missed_runs": 0,
    "closed": false,
    "initial": true
@@ -1211,5 +1211,5 @@
    "reason": "Not tracked yet (needs an Anthropic API key)"
   }
  ],
- "updated_at": "2026-11-27T13:42+11:00"
+ "updated_at": "2026-11-28T13:32+11:00"
 }
